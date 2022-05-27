@@ -1,0 +1,15 @@
+.header {
+  background-color: orange;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+}
+
+.newsitem {
+  background-color: aqua;
+}
